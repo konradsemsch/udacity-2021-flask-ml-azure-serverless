@@ -1,0 +1,5 @@
+make: Entering directory `/Users/konradsemsch/Private/udacity/2-agile-development-with-azure/3-azure-pipelines'
+python3 -m venv ~/.flask-ml-azure
+#source ~/.flask-ml-azure/bin/activate
+make: Leaving directory `/Users/konradsemsch/Private/udacity/2-agile-development-with-azure/3-azure-pipelines'
+ 
